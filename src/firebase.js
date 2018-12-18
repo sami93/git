@@ -5,7 +5,7 @@ import "firebase/storage";
 
 // Initialize Firebase
 var config = {
-  apiKey: "131231231-SJBXHXCfrkxA1q-p0hhgq5YNk",
+  apiKey: "78s-SJBXHXCfrkxA1q-p0hhgq5YNk",
   apiKey: "AIzaSyBwEnnKG-SJBXHXCfrkxA1q-p0hhgq5YNk",
   authDomain: "testproject-16d7d.firebaseapp.com",
   databaseURL: "https://testproject-16d7d.firebaseio.com",
